@@ -1,0 +1,13 @@
+.App-header {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  /* color: var(--lightpink); */
+  background: rgb(47,192,184);
+  background: linear-gradient(180deg, rgba(47,192,184,1) 47%, rgba(90,151,212,1) 53%, rgba(143,111,201,1) 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+

@@ -1,0 +1,23 @@
+:root {
+  --black: #1D2228;
+  --orange: #FB8122;
+}
+
+.App {
+  text-align: center;
+  background-color: var(--black);
+  min-height: 100vh;
+  color: white;
+}
+
+.max-width {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.list-wrapper {
+  display: block;
+  height: auto;
+}
