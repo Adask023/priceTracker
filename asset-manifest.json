@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/priceTracker/static/css/main.1028c887.chunk.css",
+    "main.js": "/priceTracker/static/js/main.596adc53.chunk.js",
+    "main.js.map": "/priceTracker/static/js/main.596adc53.chunk.js.map",
+    "runtime-main.js": "/priceTracker/static/js/runtime-main.92206c3a.js",
+    "runtime-main.js.map": "/priceTracker/static/js/runtime-main.92206c3a.js.map",
+    "static/js/2.8124e58c.chunk.js": "/priceTracker/static/js/2.8124e58c.chunk.js",
+    "static/js/2.8124e58c.chunk.js.map": "/priceTracker/static/js/2.8124e58c.chunk.js.map",
+    "static/js/3.f3800045.chunk.js": "/priceTracker/static/js/3.f3800045.chunk.js",
+    "static/js/3.f3800045.chunk.js.map": "/priceTracker/static/js/3.f3800045.chunk.js.map",
+    "index.html": "/priceTracker/index.html",
+    "static/css/main.1028c887.chunk.css.map": "/priceTracker/static/css/main.1028c887.chunk.css.map",
+    "static/js/2.8124e58c.chunk.js.LICENSE.txt": "/priceTracker/static/js/2.8124e58c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92206c3a.js",
+    "static/js/2.8124e58c.chunk.js",
+    "static/css/main.1028c887.chunk.css",
+    "static/js/main.596adc53.chunk.js"
+  ]
+}
